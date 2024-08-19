@@ -1,0 +1,7 @@
+print(9+7)
+print(98-67)
+print(65*9)
+print(15/7)
+print(15//7)
+print(5%2)
+print(5**4)
